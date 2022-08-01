@@ -77,6 +77,6 @@
         android:layout_height="wrap_content"
         android:text="Calculate Area"
         android:onClick="button2Click"
-        android:layout_marginTop="78dp"
+        android:layout_marginTop="10dp"
         />
 </LinearLayout>
