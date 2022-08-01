@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
             Double areaOfCircle = Math.PI * radius * radius;
-            msg.setText(areaOfCircle.toString() + "cm^2");
+            msg.setText(areaOfCircle.toString() + " cm\u00B2");
         }
 
 
