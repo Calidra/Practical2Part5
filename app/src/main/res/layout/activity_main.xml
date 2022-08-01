@@ -56,7 +56,7 @@
         android:id="@+id/areaCalculator1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Area: "
+        android:text="Area (cm²): "
         android:textSize="20dp"
         android:layout_marginTop="10dp"
         />
